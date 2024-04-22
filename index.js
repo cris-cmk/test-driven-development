@@ -1,4 +1,4 @@
-function classifyTriangle(a, b, c) {
+function triangleTracker(a, b, c) {
     if (a <= 0 || b <= 0 || c <= 0) {
         return 'Invalid';
     }
@@ -18,4 +18,4 @@ function classifyTriangle(a, b, c) {
     return 'Scalene';
 }
 
-module.exports = classifyTriangle;
+module.exports = triangleTracker;
