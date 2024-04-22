@@ -51,5 +51,4 @@ The project uses Jest, a delightful JavaScript Testing Framework, for writing an
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone <repository-url>
+   git clone https://github.com/cris-cmk/test-driven-development
